@@ -1,0 +1,17 @@
+.header{
+	border: 1px solid gold;
+	border-radius: 35px;
+	width: 600px;
+	margin: 0px auto;
+}
+.image{
+	float: left;
+}
+.content_area{
+	border: 1px dashed purple;
+	border-radius: 50px;
+	height: 580px;
+	width: 600px;
+	margin: 0px auto;
+	margin-top: 30px;
+}
